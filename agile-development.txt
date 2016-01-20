@@ -91,4 +91,9 @@ already.
 v5.4.1
 
 6. Copy below all of the output from `npm install http-server -g`:
-
+C:\Users\Klay\AppData\Roaming\npm\hs -> C:\Users\Klay\AppData\Roaming\npm\node_modules\http-server\bin\h
+ttp-server                                                                                              
+C:\Users\Klay\AppData\Roaming\npm\http-server -> C:\Users\Klay\AppData\Roaming\npm\node_modules\http-ser
+ver\bin\http-server                                                                                     
+C:\Users\Klay\AppData\Roaming\npm                                                                       
+└── http-server@0.8.5                                                                                   
