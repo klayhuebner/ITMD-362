@@ -57,7 +57,12 @@ First, you need to install Git, if you don’t have it already.
 git version 2.7.0.windows.1
 
 2. Copy below the output from `git config --global --list`:
-
+filter.lfs.clean=git-lfs clean %f
+filter.lfs.smudge=git-lfs smudge %f
+filter.lfs.required=true
+user.name=klayhuebner
+user.email=khuebner@hawk.iit.edu
+core.editor=emacs
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
